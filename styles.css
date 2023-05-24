@@ -1,0 +1,174 @@
+*{
+margin: 0px;
+padding: 0px;    
+}
+.rgb{
+   background-color: #e20b0b; 
+   height: 4px;
+   width: 1349px;
+}
+.green{
+    background-color: green; 
+   height: 4px;
+   width: 20%;
+}
+.green{
+    background-color: yellow; 
+   height: 4px;
+   width: 20%;
+}
+.green{
+    background-color: brown; 
+   height: 4px;
+   width: 20%;
+}.purple{
+    background-color: purple; 
+   height: 4px;
+   width: 20%;
+}
+.header{
+    display:inline-flex;
+    height: 95px;
+    width: 100%;
+    background-color:#fff;
+    box-shadow: 0px 3px #9d9da0;
+}
+.logo{
+    height: 95px;
+    padding-left: 180px;
+
+}
+.text{
+    padding-top:40px;
+    display:flex;
+    font-size: 14px;
+    color: rgb(87, 90, 89);
+    margin-left: 30px;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    font-weight: 700;
+
+
+}
+.Tashkilot{
+    margin-left: 30px;
+    color: rgb(87, 90, 89); 
+}
+.Imkoniyatlar{
+    margin-left: 30px;
+    color: rgb(87, 90, 89)    
+}
+.Hamkorlar{
+    margin-left: 30px;
+    color: rgb(87, 90, 89);
+}
+.Yordam{
+    margin-left: 30px;
+    color: rgb(87, 90, 89);
+}
+.cheti{
+    padding-top:40px;
+    display:flex;
+    font-size: 14px;
+    color: rgb(87, 90, 89);
+    margin-left: 60px;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    font-weight: 700;
+}
+.til{
+    margin-left: 20px;
+    border: hidden;
+    color: #31e3f0;
+    font-weight: 700;
+}
+.kirish{
+    margin-left: 35px;
+    border: 2px #3109c2;
+}
+.ulash{
+    margin-left: 35px;
+    border: 2px #3109c2;
+}
+.student{
+    padding-left: 650px;
+    padding-top: 50px;
+    height: 380px;
+}
+.tablo{
+    background-image: url(./hhh.png);
+    background-repeat: no-repeat;
+    background-color: #eedfdfab;
+    background-size: 1350px;
+    height: 430px;
+}
+.menu{
+    display:inline-flex;
+    height: 105px;
+    width: 100%;
+    background-color:#b8b0b0b4;
+    position: relative;
+}
+.teachers{
+    margin: 0px 40px 0px 280px;
+    height: 105px;
+    width: 150px;
+    background-color:#af3030b4;
+}
+.parents{
+    margin: 0px 40px;
+    height: 105px;
+    width: 150px;
+    background-color:#af3030b4;
+}
+.students{
+    margin: 0px 40px;
+    height: 105px;
+    width: 150px;
+    background-color:#af3030b4;
+}
+
+.office{
+    margin: 0px 40px;
+    height: 105px;
+    width: 150px;
+    background-image: url(./officials.png);
+    background-color: #fff;
+    background-repeat: no-repeat;
+    background-image: url(.office);
+}
+.menu2{
+    width: 1349px;
+    height: 79px;
+    background-color: #9d9da0; 
+    font-weight: 700;
+    font-size:bold;
+}
+.meny{
+    width: 690px;
+    height: 79;
+    padding: 15px 329px;
+    display: inline-flex;
+}
+.teachr{
+    width: 120px;
+    height: 79px;
+    background-color: #eeeaead0;
+    border-radius: 8px;
+}
+.parent{
+    width: 120px;
+    height: 79px;
+    background-color: #eeeaead0;
+    border-radius: 8px;
+}
+.stude{
+    width: 120px;
+    height: 79px;
+    background-color: #eeeaead0;
+    border-radius: 8px;
+}
+.officc{
+    width: 120px;
+    height: 79px;
+    background-color: #eeeaead0;
+    border-radius: 8px;
+}
